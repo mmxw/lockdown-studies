@@ -4,16 +4,17 @@
 - [ ] EP regex exercises (ongoing)
 - [ ] EP SQL exercises
 - [ ] EP ts exercises
-- [ ] EDU internet infrastructure
-- [ ] mdui tutorial
+- [ ] EDU internet infrastructure (ongoing)
+- [ ] mdui tutorial (ongoing)
 - [ ] EDU algorithms
 
 ## building 
 
 - [ ] mdui portfolio redesign
 - [ ] pomodoro extension
-- [x] geolocation weather app
-- [x] markdown editor/preview app
+- [x] web app for search hackernews articles using HN api
+- [x] geolocation weather app 
+- [x] markdown editor/preview app 
 - [x] online notepad app
 - [x] simple todo app
 - [x] tic-tac-toe using hooks
