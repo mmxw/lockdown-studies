@@ -12,6 +12,7 @@
 
 - [ ] mdui portfolio redesign
 - [ ] pomodoro extension
+- [ ] poetry app
 - [x] web app for search hackernews articles using HN api
 - [x] geolocation weather app 
 - [x] markdown editor/preview app 

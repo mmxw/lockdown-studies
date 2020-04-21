@@ -1,0 +1,13 @@
+- [ ] [CS50 Intro to CS](https://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+- [ ] [CS50 Web Programming with Python and JS](https://online-learning.harvard.edu/course/cs50s-web-programming-python-and-javascript?delta=0)
+- [ ] [Educative Web Dev](https://www.educative.io/courses/web-development-a-primer/qVA5D2lq7rp)
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 

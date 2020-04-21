@@ -1,0 +1,14 @@
+- [ ] Code Complete: A Practical Handbook of Software Construction
+- [ ] The Pragmatic Programmer: From Journeyman to Master
+- [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software
+- [ ] Patterns of Enterprise Application Architecture
+- [ ] Refactoring: Improving the Design of Existing Code
+- [ ] Learning JavaScript Design Patterns
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software
+- [ ] Introduction to Algorithms
+- [ ] The Algorithm Design Manual
+- [ ] [Structure andInterpretationof Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- [ ] The Art of Computer Programming
+- [ ] Computer Networking: A Top-Down Approach
+- [ ] TCP/IP Illustrated
+
